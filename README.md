@@ -31,7 +31,6 @@
 
 <div align="center">
   <img src="https://readme-stats-two-kohl.vercel.app/api?username=waaniausman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Waania's GitHub stats" />
-  <img src="https://github-readme-streak-stats-chi-six.vercel.app/?user=waaniausman&theme=tokyonight&hide_border=true" alt="Waania's GitHub Streak" />
 </div>
 
 <br/>
@@ -64,3 +63,4 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+      
